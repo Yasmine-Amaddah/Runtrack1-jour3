@@ -1,0 +1,37 @@
+*{
+    background-color: white;
+}
+
+.bloc {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.moi {
+    height: auto;
+    width: 10%;
+}
+
+.logo {
+    display: flex;
+    justify-content: end;
+}
+
+h1 {
+    background-color: rgb(252, 191, 201);
+    font-size: 8vh;
+    text-align: center;
+    padding-top: 5%;
+}
+
+p {
+    background-color: rgb(251, 205, 213);
+    font-size: 5vh;
+    text-align: center;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+}
